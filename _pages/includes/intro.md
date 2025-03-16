@@ -4,7 +4,7 @@ I am a PhD student of the class of 2024 in the Faculty of Education, Beijing Nor
 My research interest includes Educational Neuroscience, Physics Curriculum and Pedagogy and Science Education. I am committed to using fNIRS/EEG to conduct science (physics) education research, exploring strategies for cultivating top-notch innovators at the basic education level through multimodal data and various emerging technologies.
 
 
-Education: 
+Education:
 Beijing Normal University (BNU)
 -PhD
 
@@ -19,6 +19,7 @@ Central China Normal University, Wuhan, China (CCNU)
 Dalian No.24 High School, Dalian, China                                  
 
 Dalian No.39 Middle School, Dalian, China 
+
 
 Work & Internship Experiences:
 Dalian No.39 Middle School, Dalian, China
