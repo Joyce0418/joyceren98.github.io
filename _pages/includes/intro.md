@@ -5,6 +5,7 @@ My research interest includes Educational Neuroscience, Physics Curriculum and P
 
 
 Education:
+
 Beijing Normal University (BNU)
 -PhD
 
@@ -22,6 +23,7 @@ Dalian No.39 Middle School, Dalian, China
 
 
 Work & Internship Experiences:
+
 Dalian No.39 Middle School, Dalian, China
 -Physics teacher             
 
