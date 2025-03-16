@@ -11,7 +11,7 @@ The University of Hong Kong, Hong Kong SAR, China (HKU)
 Central China Normal University, Wuhan, China (CCNU)                         
 -Bachelor of Natural Sciences in Physics and a dual bachelor's degree in Phycological Science     
 -Outstanding Graduates
-Dalian No.24 High School, Dalian, China                                       
+Dalian No.24 High School, Dalian, China                                  
 Dalian No.39 Middle School, Dalian, China 
 
 Work & Internship Experiences:
@@ -23,5 +23,6 @@ No.1 Middle School Affiliated to Central China Normal University, Wuhan, China
 -“Excellent Internship Group” after the internship.
 Shenzhen Zhiwei Education Technology Co. LTD, Shenzhen, China           
 -Worked as a tutor to teach University Physics (English version)
-Union of Future Educators of Central China Normal University      One of the student leaders     
+Union of Future Educators of Central China Normal University
+-One of the student leaders     
 -Assisted teachers in Mandarin and teacher skills training for 2018 normal university students.
